@@ -31,7 +31,6 @@ const findPeopleByName = (personName, done) => {
     if (err) return console.log(err);
     done(null, person);
   })
-  done(null /*, data*/);
 };
 
 const findOneByFood = (food, done) => {
