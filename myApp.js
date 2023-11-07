@@ -61,7 +61,6 @@ const findEditThenSave = (personId, done) => {
 
 /* Testing for github operations */
 
-
 const findAndUpdate = (personName, done) => {
   const ageToSet = 20;
 
