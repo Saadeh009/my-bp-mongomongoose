@@ -88,7 +88,6 @@ const queryChain = (done) => {
     if(err) return console.log(err)
     done(null, res)
   })
-  done(null /*, data*/);
 };
 
 /** **Well Done !!**
