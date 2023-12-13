@@ -90,6 +90,8 @@ const queryChain = (done) => {
   })
 };
 
+/* comment */
+
 /** **Well Done !!**
 /* You completed these challenges, let's go celebrate !
  */
